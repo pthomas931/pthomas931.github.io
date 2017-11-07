@@ -1,3 +1,7 @@
 [submodule "aerial"]
 	path = aerial
 	url = https://github.com/sethmacleod/aerial.git
+[submodule "pthomas931.github.io"]
+	path = pthomas931.github.io
+	url = https://github.com/pthomas931/pthomas931.github.io.git
+	branch = master
