@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Phillip Thomas on Phillip Thomas </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://backlogweb.com/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 24 Jan 2018 22:31:44 EST</updated>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>http://backlogweb.com/posts/hello-hugo/</link>
+      <pubDate>Wed, 24 Jan 2018 22:31:44 EST</pubDate>
+      
+      <guid>http://backlogweb.com/posts/hello-hugo/</guid>
+      <description>&lt;p&gt;Hello Hugo!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
