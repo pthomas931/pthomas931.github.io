@@ -1,27 +1,15 @@
 languageCode = "en-us"
 title = "Phillip Thomas"
+author = "Phillip Thomas"
 baseurl = "http://backlogweb.com/"
-theme = "aerial"
+theme = "hugo-uno"
 
-[params]
+[Params]
   name = "Phillip Thomas"
   about = "Software Engineer"
-  copyright = ""
-  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
-  favicon = "favicon.ico"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/pthomas931"
-
-[[params.social]]
-  medium = "Stack Overflow"
-  icon = "stack-overflow"
-  link = "https://stackoverflow.com/users/5790134/phillip-thomas"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "#"
+  github = "pthomas931"
+  stackoverflow = "5790134"
+  email = "pthomas931@gmail.com"
+  description = "Full stack developer"
+  favicon = "/images/favicon.ico"
+  cover = "/images/background-cover.jpg"

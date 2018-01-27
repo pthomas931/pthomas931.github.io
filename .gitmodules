@@ -5,3 +5,9 @@
 	path = pthomas931.github.io
 	url = https://github.com/pthomas931/pthomas931.github.io.git
 	branch = master
+[submodule "hugo-uno-dark"]
+	path = hugo-uno-dark
+	url = https://github.com/KrazyCavin/hugo-uno-dark.git
+[submodule "hugo-uno"]
+	path = hugo-uno
+	url = https://github.com/fredrikloch/hugo-uno.git
