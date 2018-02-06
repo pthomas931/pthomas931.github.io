@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Phillip Thomas</title>
-    <link>http://backlogweb.com/posts/</link>
+    <link>https://pthomas931.github.io/posts/</link>
     <description>Recent content in Posts on Phillip Thomas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jan 2018 22:31:44 -0500</lastBuildDate>
     
-	<atom:link href="http://backlogweb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pthomas931.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://backlogweb.com/posts/hello-hugo/</link>
+      <link>https://pthomas931.github.io/posts/hello-hugo/</link>
       <pubDate>Wed, 24 Jan 2018 22:31:44 -0500</pubDate>
       
-      <guid>http://backlogweb.com/posts/hello-hugo/</guid>
+      <guid>https://pthomas931.github.io/posts/hello-hugo/</guid>
       <description>Hello Hugo!</description>
     </item>
     
